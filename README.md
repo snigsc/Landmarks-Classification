@@ -1,1 +1,3 @@
 # Landmarks-Classification
+
+The project involved working with a dataset of images of famous landmarks, organized into categories and individual landmarks. The objective was to develop machine learning models that could accurately predict the category and landmark names of each image. Due to the small size of the dataset, transfer learning using pre-trained CNNs was recommended. Data augmentation and experimentation with various ways of combining the models for the two tasks were also encouraged. The project presented an opportunity to develop skills in transfer learning, data augmentation, and model combination, as well as practical experience with Keras/TensorFlow.
